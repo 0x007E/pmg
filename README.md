@@ -4,7 +4,7 @@
 
 The `pmg` project is based on a pcb with an elektret signal transistor (`BC547`) amplifier and a transistor stage for level signalization.
 
-| Experience | Level |
+| Expierience | Level |
 |:------------|:-----:|
 | Soldering   | ![50%](https://progress-bar.xyz/25?progress_color=00ff00&suffix=%20Low&width=120) |
 | Mechanical  | ![50%](https://progress-bar.xyz/25?progress_color=0000ff&suffix=%20Low&width=120) |
