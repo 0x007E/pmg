@@ -15,8 +15,8 @@ The `pmg` project is based on a pcb with an elektret signal transistor (`BC547`)
 |:---------:|:------------------:|:-------------------------|
 | Simulation | [asc](https://github.com/0x007E/pmg/raw/refs/heads/main/PMG.asc) | LTSpice Simulation | 
 | Lochmaster | [lm4](https://github.com/0x007E/pmg/raw/refs/heads/main/PMG.LM4) | Stripe grid circuit board | 
-| Schematic | [pdf](https://github.com/0x007E/pmg/releases/latest/download/schematic.pdf) / [cadlab](https://cadlab.io/project/?/main/files)     | Schematic files          |
-| Board     | [pdf](https://github.com/0x007E/pmg/releases/latest/download/pcb.pdf) / [cadlab](https://cadlab.io/project/?/main/files)     | Board file               |
+| Schematic | [pdf](https://github.com/0x007E/pmg/releases/latest/download/schematic.pdf) / [cadlab](https://cadlab.io/project/28569/main/files)     | Schematic files          |
+| Board     | [pdf](https://github.com/0x007E/pmg/releases/latest/download/pcb.pdf) / [cadlab](https://cadlab.io/project/28569/main/files)     | Board file               |
 | Drill     | [pdf](https://github.com/0x007E/pmg/releases/latest/download/drill.pdf) | Drill file               |
 | Gerber    | [zip](https://github.com/0x007E/pmg/releases/latest/download/kicad.zip) / [tar](https://github.com/0x007E/pmg/releases/latest/download/kicad.tar.gz)                | Gerber/Drill files       |
 | Housing, PCB | [zip](https://github.com/0x007E/pmg/releases/latest/download/freecad.zip) / [tar](https://github.com/0x007E/pmg/releases/latest/download/freecad.tar.gz) | Housing and PCB (STEP) files     |
