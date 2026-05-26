@@ -1,8 +1,8 @@
-[![Version: 1.0 Release](https://img.shields.io/badge/Version-1.0%20Release-green.svg)](https://github.com/0x007e/pmg) ![Build](https://github.com/0x007e/pmg/actions/workflows/build.yml/badge.svg?branch=main) [![License CC By-NC-SA](https://img.shields.io/badge/Hardware-CC--BY--NC--SA--4.0-lightgrey)](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
+[![Version: 1.0 Release](https://img.shields.io/badge/Version-1.0%20Release-green.svg)](https://github.com/0x007e/pmg) ![Build](https://github.com/0x007e/pmg/actions/workflows/release.yml/badge.svg) [![License CC By-NC-SA](https://img.shields.io/badge/Hardware-CC--BY--NC--SA--4.0-lightgrey)](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
 
-# `PMG` - Level Meter (Pegelmessgerät)
+# `PMG` - Audio Level Meter (Pegelmessgerät)
 
-The `pmg` project is based on a pcb with an elektret signal transistor (`BC547`) amplifier and a transistor stage for level signalization.
+The `pmg` project is based on a pcb with an elektret microphone signal transistor (`BC547`) amplifier and a transistor stage for level signalization.
 
 | Experience | Level |
 |:------------|:-----:|
@@ -18,8 +18,9 @@ The `pmg` project is based on a pcb with an elektret signal transistor (`BC547`)
 | Schematic | [pdf](https://github.com/0x007E/pmg/releases/latest/download/schematic.pdf) / [cadlab](https://cadlab.io/project/28569/main/files)     | Schematic files          |
 | Board     | [pdf](https://github.com/0x007E/pmg/releases/latest/download/pcb.pdf) / [cadlab](https://cadlab.io/project/28569/main/files)     | Board file               |
 | Drill     | [pdf](https://github.com/0x007E/pmg/releases/latest/download/drill.pdf) | Drill file               |
-| Gerber    | [zip](https://github.com/0x007E/pmg/releases/latest/download/kicad.zip) / [tar](https://github.com/0x007E/pmg/releases/latest/download/kicad.tar.gz)                | Gerber/Drill files       |
-| Housing, PCB | [zip](https://github.com/0x007E/pmg/releases/latest/download/freecad.zip) / [tar](https://github.com/0x007E/pmg/releases/latest/download/freecad.tar.gz) | Housing and PCB (STEP) files     |
+| BoM | [xlsx](https://github.com/0x007E/pmg/releases/latest/download/bom.xlsx) / [html](https://github.com/0x007E/pmg/releases/latest/download/bom.html) | Bill of Material as Excel/interactive HTML |
+| PCB    | [zip](https://github.com/0x007E/pmg/releases/latest/download/kicad.zip) / [tar](https://github.com/0x007E/pmg/releases/latest/download/kicad.tar.gz)                | KiCAD/Gerber/BoM/Drill files       |
+| Mechanical | [zip](https://github.com/0x007E/pmg/releases/latest/download/freecad.zip) / [tar](https://github.com/0x007E/pmg/releases/latest/download/freecad.tar.gz) | FreeCAD/Housing and PCB (STEP/STL) files     |
 
 # Hardware
 
